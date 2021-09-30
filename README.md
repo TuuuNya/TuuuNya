@@ -1,7 +1,14 @@
-### Hi I'm TuuuNya✨
+### Yoo, I'm TuuuNya 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TuuuNya&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
- - 就职于 Alibaba
- - 负责某业务反入侵
- - 入侵检测、应急响应、攻防对抗方向长期有坑，期待一起共事！
- - 投递简历 -> song.ws#alibaba-inc.com
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dwaterrr&style=flat-square)](https://github.com/TuuuNya)
+[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://www.hackersb.cn/atom.xml&style=flat-square)](https://www.hackersb.cn/)
+
+
+- ⚡ PHP / Python / Golang.
+- ⚡ Give me a cup of Java.
+- 🌏 Blog: https://www.hackersb.cn
+- 📫 email: song@secbox.cn
+- 💼 Work on moresec.cn, focus Security Research. Long term recruitment of security researcher and penetration test engineer.
+- 💼 就职于默安科技，专注于安全研究。默安北京安全团队长期招人，安全研究、渗透测试，欢迎来聊~
 
