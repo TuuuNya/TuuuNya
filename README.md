@@ -8,6 +8,5 @@
 - ⚡ Give me a cup of Java.
 - 🌏 Blog: https://www.hackersb.cn
 - 📫 email: song@secbox.cn
-- 💼 Work on moresec.cn, focus Security Research. Long term recruitment of security researcher and penetration test engineer.
-- 💼 就职于默安科技，专注于安全研究。默安北京安全团队长期招人，安全研究、渗透测试，欢迎来聊~
+- 💼 Work on moresec.cn, focus Security Research.
 
